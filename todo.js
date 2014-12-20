@@ -56,7 +56,7 @@ $(document).ready(function (){
 			$('.dhk').removeClass('colorred');
 		}
 
-
+	console.log("this is just a change in git commit")
 
 	    
 	});
